@@ -1,5 +1,3 @@
-# FactorizacionLUyQR
+# LU/QR Factorization
 
-Con este código podemos seleccionar el tipo de factorización que queremos realizar, para despues introducir una matriz y que este la desconponga, en función del tipo de factorización elegida por el usuario.
-
-Entre las dos opciones podemos elegir entre el método LU y el método QR.
+Extremely simple QR/LU factorization tool to decompose a matrix. You can choose the method you want.
